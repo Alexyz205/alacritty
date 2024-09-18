@@ -1,0 +1,24 @@
+import = [
+    "~/.config/alacritty/themes/themes/catppuccin.toml"
+]
+# working_directory = "C:/Users/anath"
+live_config_reload = true
+
+[env]
+TERM = "xterm-256color"
+
+# [shell]
+# program = "C:/Program Files/Git/bin/bash.exe"
+
+[window]
+padding.x = 10
+padding.y = 10
+dynamic_padding = true
+
+decorations = "Buttonless"
+
+option_as_alt = "Both"
+
+[font]
+normal.family = "JetBrainsMono Nerd Font"
+
