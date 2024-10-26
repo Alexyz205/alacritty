@@ -1,8 +1,3 @@
-import = [
-    "~/.config/alacritty/themes/themes/catppuccin.toml"
-]
-# working_directory = "C:/Users/anath"
-live_config_reload = true
 
 [env]
 TERM = "xterm-256color"
@@ -21,4 +16,11 @@ option_as_alt = "Both"
 
 [font]
 normal.family = "JetBrainsMono Nerd Font"
+
+[general]
+# working_directory = "C:/Users/anath"
+live_config_reload = true
+import = [
+    "~/.config/alacritty/themes/themes/catppuccin.toml"
+]
 
